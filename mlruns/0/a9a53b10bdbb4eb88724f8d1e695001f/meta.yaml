@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/OneDrive/Documents/PERSONAL/PERSONAL%20DEVELOPMENT/DATA%20SCIENCE/Personal%20Project%20Portfolio/PP00015_MLOps_End-to-End-ML-Application-Project_MLflow/mlruns/0/a9a53b10bdbb4eb88724f8d1e695001f/artifacts
+end_time: 1697400036232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a9a53b10bdbb4eb88724f8d1e695001f
+run_name: handsome-fawn-100
+run_uuid: a9a53b10bdbb4eb88724f8d1e695001f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697400025574
+status: 3
+tags: []
+user_id: admin

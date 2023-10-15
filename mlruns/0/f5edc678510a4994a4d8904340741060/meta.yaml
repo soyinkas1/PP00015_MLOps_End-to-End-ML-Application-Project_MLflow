@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/OneDrive/Documents/PERSONAL/PERSONAL%20DEVELOPMENT/DATA%20SCIENCE/Personal%20Project%20Portfolio/PP00015_MLOps_End-to-End-ML-Application-Project_MLflow/mlruns/0/f5edc678510a4994a4d8904340741060/artifacts
+end_time: 1697399846122
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f5edc678510a4994a4d8904340741060
+run_name: angry-fowl-168
+run_uuid: f5edc678510a4994a4d8904340741060
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697399824058
+status: 3
+tags: []
+user_id: admin
